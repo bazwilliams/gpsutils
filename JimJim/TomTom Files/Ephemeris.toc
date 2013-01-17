@@ -1,0 +1,33 @@
+<TomTomToc version="1.0">
+  <Ephemeris>
+    <Id idurl="http://num1.id.tomtom.com/10001">Ephemeris</Id>
+    <Version>1244554714</Version>
+    <Name>QuickGPSfix</Name>
+    <Size>61440</Size>
+    <Description>With updated QuickGPSfix data your TomTom device can find its position much faster, especially in densely populated areas and possibly even indoors.
+
+QuickGPSfix data contains information about where the GPS satellites are going to be for the next 7 days. To get the fastest possible GPS fix, make sure you update the QuickGPSfix data as often as possible and at least once a week.</Description>
+    <HOME2 version="2.6">
+      <ephemeris idnum="10001" idurl="http://num1.id.tomtom.com/10001" idstr="Ephemeris" version="1244554714">
+        <title lang="en-GB" mimetype="text/plain">QuickGPSfix</title>
+        <description lang="en-GB" mimetype="text/plain">With updated QuickGPSfix data your TomTom device can find its position much faster, especially in densely populated areas and possibly even indoors.
+
+QuickGPSfix data contains information about where the GPS satellites are going to be for the next 7 days. To get the fastest possible GPS fix, make sure you update the QuickGPSfix data as often as possible and at least once a week.</description>
+        <image mimetype="image/png" url="http://home.tomtom.com/media/ephemeris/icon/ephemeris.png" usage="icon"/>
+        <download>
+          <url location="http://home.tomtom.com/download/Ephemeris.cab?type=ephemeris&amp;eeProvider=2DCglobalLocate&amp;devicecode=AKSHGBJN66" content="main" size="61440"/>
+        </download>
+        <size>61440</size>
+        <targetdevice models="go715 go740_2048_t_us knock1024 xl2008_s_1024_m xl2008_s_1024_m_tts"/>
+        <price free="true"/>
+        <supplier id="tomtom">
+          <name>TomTom</name>
+          <image mimetype="image/png" url="http://home.tomtom.com/media/suppliers/tomtom_supplier_icon.png" usage="icon"/>
+        </supplier>
+      </ephemeris>
+    </HOME2>
+    <Location content="main">Ephemeris.cab</Location>
+    <Picture>ephemeris.png</Picture>
+    <Target>go715,go740_2048_t_us,knock1024,xl2008_s_1024_m,xl2008_s_1024_m_tts</Target>
+  </Ephemeris>
+</TomTomToc>
